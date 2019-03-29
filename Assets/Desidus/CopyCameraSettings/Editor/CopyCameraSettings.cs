@@ -1,3 +1,33 @@
+/*
+ *
+ *                                /IIIIIII 
+ *                       /SSSSSS |__  II_/ /DDDDDDD 
+ *            /EEEEEEEE /SS__  SS   | II  | DD__  DD /UU   /UU
+ *  /DDDDDDD | EE_____/| SS  \__/   | II  | DD  \ DD| UU  | UU  /SSSSSS 
+ * | DD__  DD| EE      |  SSSSSS    | II  | DD  | DD| UU  | UU /SS__  SS
+ * | DD  \ DD| EEEEE    \____  SS   | II  | DD  | DD| UU  | UU| SS  \__/
+ * | DD  | DD| EE__/    /SS  \ SS /IIIIIII| DD  | DD| UU  | UU|  SSSSSS 
+ * | DD  | DD| EE      |  SSSSSS/|_______/| DDDDDDD/| UU  | UU \____  SS
+ * | DD  | DD| EEEEEEEE \______/          |_______/ |  UUUUUU/ /SS  \ SS
+ * | DDDDDDD/|________/                              \______/ |  SSSSSS/
+ * |_______/                                                   \______/ 
+ * 
+ *
+ *
+ * ============= CopyCameraSettings =============
+ *
+ * Plugin for Unity 2019.1 that allows to copy the settings of any 
+ * Camera component to the Scene view Camera.
+ *
+ * Version:
+ *   1.0
+ *
+ * Authors:
+ *   Ettore Passaro <ettore3091@gmail.com>
+ *	 Desidus <info@desidus.it>
+ *
+ */
+
 using UnityEditor;
 using UnityEngine;
 
